@@ -1,0 +1,5 @@
+O arquivo contornos.py encontra a placa através do contorno das bordas, utilizando a biblioteca OpenCV.
+
+O arquivo haar.py encontra a placa utilizando um arquivo haar cascade.
+
+O arquivo script.py faz a leitura da placa utilizando o Tesseract.
